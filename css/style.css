@@ -1,0 +1,45 @@
+:root{
+    --green: #469150;
+    --white: #ebebeb;
+}
+
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color:var(--green);
+}
+
+.quem-somos{
+    background-color:var(--white);
+}
+.margin-items{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.margin{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.parceiros{
+    background-color:var(--green);
+    color: var(--white);
+}
+
+.servicos{
+    background-color:var(--white);
+}
+
+.servicos img{
+    margin-top: 20px;
+}
+
+.bg-footer{
+    background-color: var(--green);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: var(--white);
+}
